@@ -17,13 +17,13 @@
 3. [Starters](#heading-3)
 
 
-# heading 1
+# Heading 1
 1. apple pie
 1. chocolate cake
-# heading 2
+# Heading 2
 1. badam shake
 2. chocolate milk
-# heading 3
+# Heading 3
 1. Pizza
 1. Shawarma
 
