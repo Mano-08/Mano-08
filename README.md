@@ -32,7 +32,18 @@
 - [x] Buy Chocolate Milk
 
 -->
-[![Mano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mano-08&hide=stars&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/Mano-08">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mano-08&hide=stars&show_icons=true&theme=algolia"/>
+</a>
+<a href="https://github.com/Mano-08">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mano-08&layout=compact"/>
+</a>
+
+
+
+<!--
+[![Mano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mano-08&hide=stars&show_icons=true&theme=algolia)](https://github.com/Mano-08)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mano-08&layout=compact)](https://github.com/Mano-08)
-
+-->
