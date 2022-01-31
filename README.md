@@ -11,7 +11,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 1. [UWaterloo](https://uwaterloo.ca/)
 
 1. [Pie and cake](#heading-1)
@@ -31,3 +31,4 @@
 - [ ] Buy Dark Chocolate 
 - [x] Buy Chocolate Milk
 
+-->
