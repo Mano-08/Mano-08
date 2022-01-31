@@ -1,5 +1,7 @@
 # Hey👋 I'm Mano, Great to see you here!😀
 **README UNDER CONSTRUCTION👷‍♂️🏗**
+
+![Totoro](https://www.teahub.io/photos/full/275-2753247_my-neighbor-totoro-spirits..jpg)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
