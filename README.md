@@ -20,12 +20,14 @@
 
 
 # Heading 1
-1. apple pie
-1. chocolate cake
+- apple pie
+- chocolate cake
 # Heading 2
-1. badam shake
-2. chocolate milk
+- badam shake
+- chocolate milk
 # Heading 3
-1. Pizza
-1. Shawarma
+- Pizza
+- Shawarma
+- [ ] Buy Dark Chocolate 
+- [x] Buy Chocolate Milk
 
