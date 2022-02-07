@@ -4,7 +4,7 @@
 ![Totoro](https://www.teahub.io/photos/full/275-2753247_my-neighbor-totoro-spirits..jpg)
 
 <a href="https://twitter.com/mano__08" target="_blank"><img height="32" width="32" src="Twitter Icon.svg" /></a>
-<a href="https://www.linkedin.com/in/mano-w-827850227/" target=”_blank”><img height="32" width="32" src="Linkedin Icon2.svg" /></a>
+<a href="https://www.linkedin.com/in/mano-w-827850227/" target="_blank"><img height="32" width="32" src="Linkedin Icon2.svg" /></a>
 
 
 <!--
@@ -35,7 +35,6 @@
 - Shawarma
 - [ ] Buy Dark Chocolate 
 - [x] Buy Chocolate Milk
-
 -->
 
 <a href="https://github.com/Mano-08">
@@ -44,11 +43,3 @@
 <a href="https://github.com/Mano-08">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mano-08&layout=compact"/>
 </a>
-
-
-
-<!--
-[![Mano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mano-08&hide=stars&show_icons=true&theme=algolia)](https://github.com/Mano-08)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mano-08&layout=compact)](https://github.com/Mano-08)
--->
