@@ -3,7 +3,8 @@
 
 ![Totoro](https://www.teahub.io/photos/full/275-2753247_my-neighbor-totoro-spirits..jpg)
 
-<img height="32" width="32" href="#" src="" />
+<a href="https://twitter.com/mano__08" target=”_blank”><img height="32" width="32" src="Twitter Icon.svg" /></a>
+<a href="https://www.linkedin.com/in/mano-w-827850227/" target=”_blank”><img height="32" width="32" src="Linkedin Icon3.svg" /></a>
 
 
 <!--
