@@ -22,5 +22,5 @@
 
 <a href="https://github.com/Mano-08">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mano-08&hide=stars&show_icons=true&theme=algolia"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mano-08&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mano-08&layout=compact"/>
 </a>
