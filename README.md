@@ -31,6 +31,6 @@ I'm a CS undergrad currently in Freshman year. I am passionate about technologie
 -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mano-08&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Lang" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mano-08&show_icons=true&locale=en&theme=algolia" alt="Stats" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mano-08&show_icons=true&locale=en&theme=algolia" alt="Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mano-08" alt="Streaks" /></p>
