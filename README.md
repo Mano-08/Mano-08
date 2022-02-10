@@ -3,12 +3,12 @@
 <img align="right" alt="Coding" width="425" src="https://cdn.dribbble.com/users/3859528/screenshots/9164402/media/730597676ca0663238bb350aed97f848.gif">
 
 ## Exploring Galaxies of Tech
-I'm a Computer Science undergrad currently in Freshman year who loves collaborating with people around the globe. Bringing out solutions that could make our lives better with technology available; is what I've been working on. I'd say I wanna learn everything out there😅 but Web designing has caught my interest at the moment. So, after all I'm an explorer who is currently roaming in the galaxy of JavaScript, will be moving on to other galaxies soon :D
+I'm a CS undergrad currently in Freshman year. I am passionate about technologies and building solutions that could make our lives better. So after all I'm an explorer <img height="18" width="18" src="https://image.freepik.com/free-vector/astronaut-holding-flag-space-cartoon-icon-illustration-technology-space-icon-isolated-flat-cartoon-style_138676-3099.jpg"> who is currently roaming in the galaxy of JavaScript <img height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">, will be moving on to other galaxies soon🚀
 
 - 🏗 I’m currently working on a mini-project in JavaScript
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Product design 
-- 🙃 I’m looking for help with React.js
+- 👯 I’m looking to collaborate on web design 
+<!-- - 🙃 I’m looking for help with React.js-->
 - 📫 I'm pretty active on <a href="https://twitter.com/mano__08">Twitter</a>, DMs are open 📩 ツ
 - 😄 Pronouns: he/him
 -  Fun fact: I remember so many incidences from my childhood that I often slip into nostalgia
