@@ -1,8 +1,9 @@
 # Hey👋, I'm Mano
-## Exploring Galaxies of Tech
-I'm a Computer Science undergrad currently in freshman year who loves collaborating and networking with people around the globe. Bringing out solutions that could make our lives better with technology available; is what I've been working on. I'd say I wanna learn everything out there😅 but Web designing has caught my interest at the moment. So, after all I'm an explorer who is currently roaming in the galaxy of JavaScript, will be moving on to other galaxies soon :D
 
 <img align="right" alt="Coding" width="425" src="https://cdn.dribbble.com/users/3859528/screenshots/9164402/media/730597676ca0663238bb350aed97f848.gif">
+
+## Exploring Galaxies of Tech
+I'm a Computer Science undergrad currently in Freshman year who loves collaborating with people around the globe. Bringing out solutions that could make our lives better with technology available; is what I've been working on. I'd say I wanna learn everything out there😅 but Web designing has caught my interest at the moment. So, after all I'm an explorer who is currently roaming in the galaxy of JavaScript, will be moving on to other galaxies soon :D
 
 - 🏗 I’m currently working on a mini-project in JavaScript
 - 🌱 I’m currently learning React
