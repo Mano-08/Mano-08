@@ -1,4 +1,6 @@
 # Hey👋, I'm Mano
+## Exploring Galaxies of Tech
+I'm a Computer Science undergrad currently in freshman year who loves collaborating and networking with people around the globe. Bringing out solutions that could make our lives better with technology available; is what I've been working on. I'd say I wanna learn everything out there😅 but Web designing has caught my interest at the moment. So, after all I'm an explorer who is currently roaming in the galaxy of JavaScript, will be moving on to other galaxies soon :D
 
 <img align="right" alt="Coding" width="425" src="https://cdn.dribbble.com/users/3859528/screenshots/9164402/media/730597676ca0663238bb350aed97f848.gif">
 
@@ -19,8 +21,14 @@
 <a href="https://twitter.com/mano__08" target="_blank"><img height="32" width="32" src="Twitter Icon.svg" /></a>
 <a href="https://www.linkedin.com/in/mano-w-827850227/" target="_blank"><img height="32" width="32" src="Linkedin Icon2.svg" /></a>
 
-
+<!--
 <a href="https://github.com/Mano-08">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mano-08&hide=stars&show_icons=true&theme=algolia"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mano-08&layout=compact"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unnati914&show_icons=true&locale=en&layout=compact" alt="unnati914" />
 </a>
+-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mano-08&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Lang" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mano-08&show_icons=true&locale=en&theme=algolia" alt="Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mano-08" alt="Streaks" /></p>
