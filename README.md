@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mano-08&show_icons=true&locale=en&theme=algolia" alt="Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mano-08" alt="Streaks" /></p>
+
+![profile views](https://komarev.com/ghpvc/?username=Mano-08&style=flat&color=brightgreen&label=Profile+Views)
