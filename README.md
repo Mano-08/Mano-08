@@ -2,8 +2,8 @@
 
 <img align="right" alt="Coding" width="425" src="https://cdn.dribbble.com/users/3859528/screenshots/9164402/media/730597676ca0663238bb350aed97f848.gif">
 
-### Exploring Galaxies of Tech
-I'm a CS undergrad currently in Freshman year. I am passionate about technologies and building solutions that could make our lives better. So, after all I'm an explorer <img height="18" width="18" src="https://image.freepik.com/free-vector/astronaut-holding-flag-space-cartoon-icon-illustration-technology-space-icon-isolated-flat-cartoon-style_138676-3099.jpg"> who is currently roaming in the galaxy of JavaScript <img height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">, will be moving on to other galaxies soon🚀
+## Aspiring Full Stack developer
+I'm a CS undergrad currently in Freshman year who is passionate about Technologies and Building solutions that could make our lives better✨.
 
 - 🏗 I’m currently working on a mini-project in JavaScript
 - 🌱 I’m currently learning React
