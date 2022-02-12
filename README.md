@@ -6,10 +6,10 @@
 
 - 🏗 I’m currently working on a mini-project in JavaScript
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on web design 
+- 👯 I’m looking to collaborate on Web Design 
 - 📫 I'm pretty active on <a href="https://twitter.com/mano__08">Twitter</a>, DMs are open ツ
 - 😄 Pronouns: he/him
--  Fun fact: I remember so many incidences from my childhood that I often slip into nostalgia
+-  Fun fact: I often slip into nostalgia
 
 <!--🙃 I’m looking for help with React.js-->
 
