@@ -15,7 +15,7 @@
 
 ## Skills🍳:
 
-<img height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> <img height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> <img height="37" width="37" src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4"> <img height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img height="37" width="37" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+<img height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> <img height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> <img height="37" width="37" src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo.svg"> <img height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img height="37" width="37" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
 
 ## Connect with me:
 
