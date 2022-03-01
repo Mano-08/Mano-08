@@ -11,7 +11,6 @@
 - 😄 Pronouns: he/him
 - ✨Fun fact: I often slip into nostalgia
 
-<!--🙃 I’m looking for help with React.js-->
 
 ## Skills🍳:
 
