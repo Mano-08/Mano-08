@@ -27,10 +27,17 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unnati914&show_icons=true&locale=en&layout=compact" alt="unnati914" />
 </a>
 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mano-08&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Lang" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mano-08&show_icons=true&locale=en&theme=algolia" alt="Stats" /></p>
+<table>
+  <tr>
+   
+<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mano-08&show_icons=true&locale=en&theme=algolia" alt="Stats" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mano-08&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Lang" /></td>
+  </tr>
+</table>
 
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mano-08" alt="Streaks" /></p>
+  </div>
 
 ![profile views](https://komarev.com/ghpvc/?username=Mano-08&style=flat&color=blue&label=Profile+Views)
