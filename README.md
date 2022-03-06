@@ -4,7 +4,6 @@
 
 ## An aspiring Full Stack developer
 
-- 🏗 I’m currently working on a mini-project in JavaScript
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Web Design 
 - 📫 I'm pretty active on <a href="https://twitter.com/mano__08">Twitter</a>, DMs are open :)
