@@ -5,7 +5,7 @@
 ## An aspiring Full Stack developer
 
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Web Design 
+- 👯 I’m looking to collaborate on Web Dev 
 - 📫 I'm pretty active on <a href="https://twitter.com/mano__08">Twitter</a>, DMs are open :)
 - 😄 Pronouns: he/him
 - ✨Fun fact: I often slip into nostalgia
