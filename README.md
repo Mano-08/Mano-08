@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Web Dev 
+- 😋Check out my Figma designs <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/MY-DESIGNS?node-id=0%3A1">here</a>!
 - 📫 I'm pretty active on <a href="https://twitter.com/mano__08">Twitter</a>, DMs are open :)
 - 😄 Pronouns: he/him
 - ✨Fun fact: I often slip into nostalgia
