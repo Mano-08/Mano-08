@@ -2,10 +2,8 @@
 
 <img align="right" alt="Coding" width="425" src="https://cdn.dribbble.com/users/3859528/screenshots/9164402/media/730597676ca0663238bb350aed97f848.gif">
 
-## An aspiring Full Stack developer
-
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Web Dev 
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking to collaborate on any Hackathons (online)
 - 😋 Check out my Figma designs <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/MY-DESIGNS?node-id=0%3A1">here</a>!
 - 📫 I'm pretty active on <a href="https://twitter.com/mano__08">Twitter</a>, DMs are open :)
 - 😄 Pronouns: he/him
