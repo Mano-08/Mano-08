@@ -27,7 +27,7 @@
 
 <table>
   <tr>
-   
+  
 <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mano-08&show_icons=true&locale=en&theme=algolia" alt="Stats" />
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mano-08&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Lang" /></td>
   </tr>
