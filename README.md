@@ -1,4 +1,4 @@
-# Hey👋, I'm Mano
+# Hey👋, I'm Mano 
 
 <img align="right" alt="Coding" width="425" src="https://cdn.dribbble.com/users/3859528/screenshots/9164402/media/730597676ca0663238bb350aed97f848.gif">
 
