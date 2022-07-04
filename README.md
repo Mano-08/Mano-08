@@ -15,7 +15,7 @@
 ## Connect with me:
 
 <a href="https://twitter.com/mano__08" target="_blank"><img height="32" width="32" src="Twitter Icon.svg" /></a>
-<a href="https://www.linkedin.com/in/mano-w-827850227/" target="_blank"><img height="32" width="32" src="Linkedin Icon2.svg" /></a>
+<a href="https://www.linkedin.com/in/wmano/" target="_blank"><img height="32" width="32" src="Linkedin Icon2.svg" /></a>
 
 <!--
 <a href="https://github.com/Mano-08">
