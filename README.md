@@ -1,7 +1,7 @@
 # Hi👋, I'm Mano 
 
 
-<img align="right" alt="Coding" width="570" src="https://cdn.dribbble.com/users/3859528/screenshots/9164402/media/730597676ca0663238bb350aed97f848.gif">
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/3859528/screenshots/9164402/media/730597676ca0663238bb350aed97f848.gif">
 
 - 🌱 I’m currently learning React.js
 - 😋 Check out my Figma designs <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/MY-DESIGNS?node-id=0%3A1">here</a>!
