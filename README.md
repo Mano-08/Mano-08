@@ -14,7 +14,7 @@
 
 ## Connect with me:
 
-<a href="https://twitter.com/mano__08" target="_blank"><img height="36" width="36 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a> <a href="https://www.linkedin.com/in/wmano/" target="_blank"><img height="32" width="32" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
+
 
 
 <!--
