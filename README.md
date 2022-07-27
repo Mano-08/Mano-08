@@ -1,4 +1,4 @@
-# Hey👋, I'm Mano 
+# Hi👋, I'm Mano 
 
 <img align="right" alt="Coding" width="425" src="https://cdn.dribbble.com/users/3859528/screenshots/9164402/media/730597676ca0663238bb350aed97f848.gif">
 
@@ -14,8 +14,8 @@
 
 ## Connect with me:
 
-<a href="https://twitter.com/mano__08" target="_blank"><img height="32" width="32" src="Twitter Icon.svg" /></a>
-<a href="https://www.linkedin.com/in/wmano/" target="_blank"><img height="32" width="32" src="Linkedin Icon2.svg" /></a>
+<a href="https://twitter.com/mano__08" target="_blank"><img height="36" width="36 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a> <a href="https://www.linkedin.com/in/wmano/" target="_blank"><img height="32" width="32" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
+
 
 <!--
 <a href="https://github.com/Mano-08">
