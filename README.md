@@ -4,6 +4,7 @@
 <img  width="700" src="https://cdn.dribbble.com/users/3859528/screenshots/9164402/media/730597676ca0663238bb350aed97f848.gif">
 
 
+## I'm a Tech enthusiast and an aspiring full stack developer!
 
 - 😄 Pronouns: he/him 
 - 🌱 I’m currently learning React.js 
