@@ -18,7 +18,7 @@
 
 ## Tools:
 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"> <img height="40" width="40" src="vscode.svg">
+<img height="40" width="40" src="vscode.svg"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"> 
 
 
 ## Connect with me:
