@@ -1,7 +1,7 @@
 <h1 align="center"> Hi👋, I'm Mano </h1>
 
 
-<img  width="700" src="https://cdn.dribbble.com/users/3859528/screenshots/9164402/media/730597676ca0663238bb350aed97f848.gif">
+<img align="right" width="450" src="https://cdn.dribbble.com/users/3859528/screenshots/9164402/media/730597676ca0663238bb350aed97f848.gif">
 
 
 ## I'm a Tech enthusiast and an aspiring full stack developer!
