@@ -1,4 +1,5 @@
-<h1 align="center"> Hi👋, I'm Mano </h1>
+# Hi👋, I'm Mano 
+
 
 
 <img align="right" width="450" src="https://cdn.dribbble.com/users/3859528/screenshots/9164402/media/730597676ca0663238bb350aed97f848.gif">
