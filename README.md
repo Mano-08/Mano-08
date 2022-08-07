@@ -1,10 +1,14 @@
 ![mano](https://user-images.githubusercontent.com/95289188/183302180-1e724761-6b83-402f-b877-a79b2ca90863.png)
 
 # Hi, I'm Mano
-- I am currently learning Data Structures and Algorithm
-- I am an aspiring full stack developer
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/95289188/183304015-ca526800-5818-4a4b-8dc4-2ce07c795537.gif">
+<img align="right" height="150" src="https://user-images.githubusercontent.com/95289188/183304015-ca526800-5818-4a4b-8dc4-2ce07c795537.gif">
+
+### 🤠 I'm an 18 year old Web developer and a ML Enthusiast based India
+
+- Currently learning NodeJS and ExpressJS. I enjoy working with JavaScript, Python!
+- I've also learning and practising Data Structures and algorithms alongside
+- Check out my Figma designs <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/MY-DESIGNS?node-id=0%3A1">here</a>! :)
 
 
 
@@ -34,8 +38,11 @@
 <br>
 <br>
 <br>
+<br>
 
-
+<div align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=Mano-08&theme=chartreuse-dark&show_icons=true)](https://github.com/Mano-08/github-readme-stats">
+</div>
 
 
 *************
