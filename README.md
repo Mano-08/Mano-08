@@ -17,16 +17,22 @@
   - 👩‍💻learning DSA!
   - 👯‍♀️teaming up for hackathons!
   - 🤝working on any project!
-### If you wanna collaborate on any project or hackathon, do shoot me a message! :)
-
-
-<img align="left" height="300" src="https://user-images.githubusercontent.com/95289188/183303326-8f92afff-db10-442e-b24e-9bca49846fae.gif">
-
 
 # Languages & Tools 
 
 
+
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### If you wanna collaborate on any project or hackathon, do shoot me a message! :)
+
+<img align="left" height="300" src="https://user-images.githubusercontent.com/95289188/183303326-8f92afff-db10-442e-b24e-9bca49846fae.gif">
+
 <br>
 
 # Lets Connect!
