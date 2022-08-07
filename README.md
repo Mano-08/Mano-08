@@ -9,11 +9,10 @@
 - Currently learning NodeJS and ExpressJS. I enjoy working with JavaScript, Python!
 - I've also learning and practising Data Structures and algorithms alongside
 - Check out my Figma designs <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/MY-DESIGNS?node-id=0%3A1">here</a>! :)
-
-
-
- 
-
+- I'm looking forward to collaborating for
+  - learning DSA!👩‍💻
+  - teaming up for hackathons!👯‍♀️
+  - working on any project!💻🤝
 ### If you wanna collaborate on any project or hackathon, do shoot me a message! :)
 
 
