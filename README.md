@@ -1,15 +1,7 @@
-<h1 align="center"> Hi👋, I'm Mano </h1>
 
 
 <img align="right" width="450" src="https://cdn.dribbble.com/users/3859528/screenshots/9164402/media/730597676ca0663238bb350aed97f848.gif">
 
-
-## I'm a Tech enthusiast and an aspiring full stack developer!
-
-- 😄 Pronouns: he/him 
-- 🌱 I’m currently learning React.js 
-- 😋 Check out my Figma designs <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/MY-DESIGNS?node-id=0%3A1">here</a>!
-- ✨ Fun fact: I often slip into nostalgia
 
 
 ## Languages and Frameworks:
@@ -33,19 +25,10 @@
 </p>
 
 
-<!--
-<a href="https://github.com/Mano-08">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mano-08&hide=stars&show_icons=true&theme=algolia"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unnati914&show_icons=true&locale=en&layout=compact" alt="unnati914" />
-</a>
--->
-
-##
-
 
 ![profile views](https://komarev.com/ghpvc/?username=Mano-08&style=flat&color=blue&label=Profile+Views)
 
-##
+
 
 
 [![Mano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mano-08&theme=chartreuse-dark&show_icons=true)](https://github.com/Mano-08/github-readme-stats)
