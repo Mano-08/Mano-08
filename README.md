@@ -1,27 +1,35 @@
 ![mano](https://user-images.githubusercontent.com/95289188/183302180-1e724761-6b83-402f-b877-a79b2ca90863.png)
 
-# Hi, I'm Mano
+# Hi👋, I'm Mano 
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/95289188/183304015-ca526800-5818-4a4b-8dc4-2ce07c795537.gif">
 
 ### 🤠 I'm an 18 year old Web developer and a ML Enthusiast based India
 
-- Currently learning NodeJS and ExpressJS. I enjoy working with JavaScript, Python!
-- I've also learning and practising Data Structures and algorithms alongside
-- Check out my Figma designs <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/MY-DESIGNS?node-id=0%3A1">here</a>! :)
+
+
+<img align="right" height="180" src="https://user-images.githubusercontent.com/95289188/183304015-ca526800-5818-4a4b-8dc4-2ce07c795537.gif">
+
+
+- I'm currently learning NodeJS and ExpressJS. And yes! I love working with JavaScript & Python!
+- I've also been learning and practising Data Structures and algorithms alongside
+- I love to design webpages, logos and icons with designing tools like Figma and Canva! Check out my Figma designs <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/MY-DESIGNS?node-id=0%3A1">here</a>! :)
 - I'm looking forward to collaborating for
-  - learning DSA!👩‍💻
-  - teaming up for hackathons!👯‍♀️
-  - working on any project!💻🤝
+  - 👩‍💻learning DSA!
+  - 👯‍♀️teaming up for hackathons!
+  - 🤝working on any project!
 ### If you wanna collaborate on any project or hackathon, do shoot me a message! :)
 
 
 <img align="left" height="300" src="https://user-images.githubusercontent.com/95289188/183303326-8f92afff-db10-442e-b24e-9bca49846fae.gif">
 
+
+# Languages & Tools 
+
+
 <br>
 <br>
 
-## Lets Connect!
+# Lets Connect!
 
 <p align="left">
 <a href="https://twitter.com/mano__08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mano__08" height="30" width="40" /></a>
