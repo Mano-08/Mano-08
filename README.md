@@ -10,9 +10,9 @@
 <img align="right" height="180" src="https://user-images.githubusercontent.com/95289188/183304015-ca526800-5818-4a4b-8dc4-2ce07c795537.gif">
 
 
-- I'm currently learning NodeJS and ExpressJS. And yes! I love working with JavaScript & Python!
+- I'm currently learning NodeJS and ExpressJS
 - I've also been learning and practising Data Structures and algorithms alongside
-- I love to design webpages, logos and icons with designing tools like Figma and Canva! Check out my Figma designs <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/MY-DESIGNS?node-id=0%3A1">here</a>! :)
+- I love designing webpages, logos and icons! Check out my Figma designs <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/MY-DESIGNS?node-id=0%3A1">here</a>! :)
 - I'm looking forward to collaborating for
   - 👩‍💻learning DSA!
   - 👯‍♀️teaming up for hackathons!
