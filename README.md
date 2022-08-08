@@ -1,9 +1,10 @@
+# Hi👋, I'm Mano! 
+
 ![mano](https://user-images.githubusercontent.com/95289188/183302180-1e724761-6b83-402f-b877-a79b2ca90863.png)
 
-# Hi👋, I'm Mano 
+# About
 
-
-### 🤠 An 18 year old Web developer and a ML Enthusiast based from India
+### 🤠 I'm an 18 year old Web developer and a ML Enthusiast based from India
 
 
 
