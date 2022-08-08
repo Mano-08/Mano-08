@@ -1,11 +1,10 @@
-# Hi!👋 I'm Mano
+# Hi!👋 I'm Mano 
 
 ![mano](https://user-images.githubusercontent.com/95289188/183302180-1e724761-6b83-402f-b877-a79b2ca90863.png)
 
 # About:
 
 ### - I'm an 18 year old Web developer and a ML Enthusiast based from India
-
 <img align="right" height="200" src="https://user-images.githubusercontent.com/95289188/183362165-659e2a99-6e28-4062-b942-ac52b2b8065e.gif">
 
 - Currently learning NodeJS and ExpressJS
@@ -50,6 +49,9 @@
 <br>
 
 <div align="center">
+  
+![profile views](https://komarev.com/ghpvc/?username=Mano-08&style=flat&color=blue&label=Profile+Views)
+  
 <img  src="https://github-readme-stats.vercel.app/api?username=Mano-08&theme=chartreuse-dark&show_icons=true)](https://github.com/Mano-08/github-readme-stats">
 </div>
 
