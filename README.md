@@ -19,15 +19,11 @@
 
 # Languages & Tools 
 
+<img alt="python" height="40" width="40" src="https://user-images.githubusercontent.com/95289188/183356623-4cbbedcd-ff9f-4e83-aa5d-1ec868eff3ca.svg"> <img alt="javascript" height="40" width="40" src="https://user-images.githubusercontent.com/95289188/183356626-f4b06ef9-9ce6-47cb-bdd3-51b4a0648f51.svg"> <img alt="git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> <img alt="vscode" height="40" width="40" src="vscode.svg"> <img alt="html" height="40" width="40" src="https://user-images.githubusercontent.com/95289188/183356611-3678dfdc-b50c-461c-9056-201e019442fb.svg"> <img alt="css" height="40" width="40" src="https://user-images.githubusercontent.com/95289188/183356619-9898e49b-942a-488c-8ef9-274fa2b43d08.svg"> <img alt="figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 <img align="left" height="300" src="https://user-images.githubusercontent.com/95289188/183303326-8f92afff-db10-442e-b24e-9bca49846fae.gif">
