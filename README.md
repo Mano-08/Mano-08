@@ -37,7 +37,7 @@
 
 # Lets Connect!
 
-### If you wanna reach out to me for anything, be it a doubt, collaboration in project or about Anime, do shoot me a message😉! 
+### If you wanna reach out to me for anything, be it a doubt, collaboration in any project or about Anime, do shoot me a message😉! 
 
 <p align="left">
 <a href="https://twitter.com/mano__08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mano__08" height="30" width="40" /></a>
