@@ -7,7 +7,10 @@
 
 
 
-<img align="right" height="230" src="https://user-images.githubusercontent.com/95289188/183359257-290a9e2e-4f3a-427d-ab84-f1504c662c77.gif">
+<img align="right" width="350" src="https://user-images.githubusercontent.com/95289188/183362165-659e2a99-6e28-4062-b942-ac52b2b8065e.gif">
+
+
+### Learning
 
 - Currently learning NodeJS and ExpressJS
 - Practising Data Structures and algorithms
