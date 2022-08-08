@@ -9,7 +9,7 @@
 <img align="right" height="200" src="https://user-images.githubusercontent.com/95289188/183362165-659e2a99-6e28-4062-b942-ac52b2b8065e.gif">
 
 - Currently learning NodeJS and ExpressJS
-- Practising Data Structures and algorithms on <a href="https://leetcode.com/Mano-08">Leetcode</a>
+- Practising Data Structures and Algorithms on <a href="https://leetcode.com/Mano-08">Leetcode</a>
 - Check out my Figma designs <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/MY-DESIGNS?node-id=0%3A1">here</a>! :)
 - I'm looking forward to collaboration for
   - 👩‍💻learning DSA!
@@ -31,7 +31,7 @@
 
 # Lets Connect!
 
-#### If you wanna reach out to me about anything, be it a doubt or for collaboration with project or about anime, do shoot me a message😉! 
+#### If you wanna reach out to me for anything, be it a doubt or for collaboration with project or about anime, do shoot me a message😉! 
 
 <p align="left">
 <a href="https://twitter.com/mano__08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mano__08" height="30" width="40" /></a>
