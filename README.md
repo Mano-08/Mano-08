@@ -1,29 +1,26 @@
-# Hi👋, I'm Mano! 
+# Hi!👋 I'm Mano
 
 ![mano](https://user-images.githubusercontent.com/95289188/183302180-1e724761-6b83-402f-b877-a79b2ca90863.png)
 
-# About
+# About:
 
-### 🤠 I'm an 18 year old Web developer and a ML Enthusiast based from India
+### - I'm an 18 year old Web developer and a ML Enthusiast based from India
 
-
-
-<img align="right" width="350" src="https://user-images.githubusercontent.com/95289188/183362165-659e2a99-6e28-4062-b942-ac52b2b8065e.gif">
-
-
-### Learning
+<img align="right" height="200" src="https://user-images.githubusercontent.com/95289188/183362165-659e2a99-6e28-4062-b942-ac52b2b8065e.gif">
 
 - Currently learning NodeJS and ExpressJS
-- Practising Data Structures and algorithms
+- Practising Data Structures and algorithms on <a href="https://leetcode.com/Mano-08">Leetcode</a>
 - Check out my Figma designs <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/MY-DESIGNS?node-id=0%3A1">here</a>! :)
 - I'm looking forward to collaboration for
   - 👩‍💻learning DSA!
   - 👯‍♀️teaming up for hackathons!
   - 🤝working on any project!
 
-# Languages & Tools 
 
-<img alt="python" height="40" width="40" src="https://user-images.githubusercontent.com/95289188/183356623-4cbbedcd-ff9f-4e83-aa5d-1ec868eff3ca.svg"> <img alt="javascript" height="40" width="40" src="https://user-images.githubusercontent.com/95289188/183356626-f4b06ef9-9ce6-47cb-bdd3-51b4a0648f51.svg"> <img alt="jquery" height="36" width="36" src="https://user-images.githubusercontent.com/95289188/183399447-f9e9f62f-d676-4f47-9537-a9700df34883.jpg"> <img alt="git" height="38" width="38" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> <img alt="vscode" height="40" width="40" src="vscode.svg"> <img alt="html" height="40" width="40" src="https://user-images.githubusercontent.com/95289188/183356611-3678dfdc-b50c-461c-9056-201e019442fb.svg"> <img alt="css" height="40" width="40" src="https://user-images.githubusercontent.com/95289188/183356619-9898e49b-942a-488c-8ef9-274fa2b43d08.svg"> <img alt="figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+
+# Languages & Tools:
+
+<img alt="python" height="40" width="40" src="https://user-images.githubusercontent.com/95289188/183356623-4cbbedcd-ff9f-4e83-aa5d-1ec868eff3ca.svg"> <img alt="javascript" height="40" width="40" src="https://user-images.githubusercontent.com/95289188/183356626-f4b06ef9-9ce6-47cb-bdd3-51b4a0648f51.svg"> <img alt="jquery" height="36" width="36" src="https://user-images.githubusercontent.com/95289188/183399447-f9e9f62f-d676-4f47-9537-a9700df34883.jpg"> <img alt="html" height="40" width="40" src="https://user-images.githubusercontent.com/95289188/183356611-3678dfdc-b50c-461c-9056-201e019442fb.svg"> <img alt="css" height="40" width="40" src="https://user-images.githubusercontent.com/95289188/183356619-9898e49b-942a-488c-8ef9-274fa2b43d08.svg"> <img alt="git" height="38" width="38" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> <img alt="vscode" height="40" width="40" src="vscode.svg"> <img alt="figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"> 
 
 
 
