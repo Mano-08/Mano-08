@@ -6,7 +6,7 @@
 # About:
 
 
-### - I'm an 18 year old Web developer and a ML Enthusiast based from India
+### - I'm an 18 year old Web developer and a ML Enthusiast based in India
 <img align="right" height="200" src="https://user-images.githubusercontent.com/95289188/183362165-659e2a99-6e28-4062-b942-ac52b2b8065e.gif">
 
 - Currently learning NodeJS and ExpressJS
