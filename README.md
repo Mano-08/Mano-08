@@ -1,10 +1,13 @@
-# Hi!👋 I'm Mano 
-
 <!--![mano](https://user-images.githubusercontent.com/95289188/183302180-1e724761-6b83-402f-b877-a79b2ca90863.png)-->
-![mano](https://user-images.githubusercontent.com/95289188/183417194-634e2a6e-b3b8-472e-9060-de3b005b1ecd.png)
+![mano](https://user-images.githubusercontent.com/95289188/183422369-29bed8ea-b650-4514-91fa-8507fb8ee013.png)
 
-# About:
+<div align="center">
+  
+![profile views](https://komarev.com/ghpvc/?username=Mano-08&color=brightgreen&label=Profile+Views)
+[![Linkedin: Tanya](https://img.shields.io/badge/-Mano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wmano/)](https://www.linkedin.com/in/wmano/)
+</div>
 
+# About ME💬:
 
 ### - I'm an 18 year old Web developer and a ML Enthusiast based in India
 <img align="right" height="200" src="https://user-images.githubusercontent.com/95289188/183362165-659e2a99-6e28-4062-b942-ac52b2b8065e.gif">
@@ -52,8 +55,7 @@
 
 <div align="center">
   
-![profile views](https://komarev.com/ghpvc/?username=Mano-08&style=flat&color=blue&label=Profile+Views)
-  
+
 <img  src="https://github-readme-stats.vercel.app/api?username=Mano-08&theme=chartreuse-dark&show_icons=true)](https://github.com/Mano-08/github-readme-stats">
 </div>
 
