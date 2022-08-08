@@ -7,7 +7,7 @@
 
 
 
-<img align="right" height="180" src="https://user-images.githubusercontent.com/95289188/183304015-ca526800-5818-4a4b-8dc4-2ce07c795537.gif">
+<img align="right" height="230" src="https://user-images.githubusercontent.com/95289188/183359257-290a9e2e-4f3a-427d-ab84-f1504c662c77.gif">
 
 - Currently learning NodeJS and ExpressJS
 - Practising Data Structures and algorithms
@@ -32,7 +32,7 @@
 
 # Lets Connect!
 
-#### If you wanna reach out to me about anything, be it a doubt or for collaboration with project or about anime, do shoot me a message 😉! 
+#### If you wanna reach out to me about anything, be it a doubt or for collaboration with project or about anime, do shoot me a message😉! 
 
 <p align="left">
 <a href="https://twitter.com/mano__08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mano__08" height="30" width="40" /></a>
