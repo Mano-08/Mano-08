@@ -3,17 +3,16 @@
 # Hi👋, I'm Mano 
 
 
-### 🤠 I'm an 18 year old Web developer and a ML Enthusiast based India
+### 🤠 An 18 year old Web developer and a ML Enthusiast based from India
 
 
 
 <img align="right" height="180" src="https://user-images.githubusercontent.com/95289188/183304015-ca526800-5818-4a4b-8dc4-2ce07c795537.gif">
 
-
-- I'm currently learning NodeJS and ExpressJS
-- I've also been learning and practising Data Structures and algorithms alongside
-- I love designing webpages, logos and icons! Check out my Figma designs <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/MY-DESIGNS?node-id=0%3A1">here</a>! :)
-- I'm looking forward to collaborating for
+- Currently learning NodeJS and ExpressJS
+- Practising Data Structures and algorithms
+- Check out my Figma designs <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/MY-DESIGNS?node-id=0%3A1">here</a>! :)
+- I'm looking forward to collaboration for
   - 👩‍💻learning DSA!
   - 👯‍♀️teaming up for hackathons!
   - 🤝working on any project!
@@ -22,6 +21,7 @@
 
 
 
+
 <br>
 <br>
 <br>
@@ -29,13 +29,14 @@
 <br>
 <br>
 
-### If you wanna collaborate on any project or hackathon, do shoot me a message! :)
 
 <img align="left" height="300" src="https://user-images.githubusercontent.com/95289188/183303326-8f92afff-db10-442e-b24e-9bca49846fae.gif">
 
 <br>
 
 # Lets Connect!
+
+#### If you wanna reach out to me about anything, be it a doubt or for collaboration with project or about anime, do shoot me a message 😉! 
 
 <p align="left">
 <a href="https://twitter.com/mano__08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mano__08" height="30" width="40" /></a>
