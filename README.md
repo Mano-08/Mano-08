@@ -15,6 +15,7 @@
 - Currently learning NodeJS and ExpressJS
 - Practising Data Structures and Algorithms on <a href="https://leetcode.com/Mano-08">Leetcode</a>
 - Check out my Figma designs <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/MY-DESIGNS?node-id=0%3A1">here</a>! :)
+- Fun fact: I often slip into nostalgia ✨
 - I'm looking forward to collaboration for
   - 👩‍💻learning DSA!
   - 👯‍♀️teaming up for hackathons!
