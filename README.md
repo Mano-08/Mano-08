@@ -3,8 +3,8 @@
 
 <div align="center">
   
-![profile views](https://komarev.com/ghpvc/?username=Mano-08&color=orange&label=Profile+Views)
-[![Linkedin: Tanya](https://img.shields.io/badge/-Mano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wmano/)](https://www.linkedin.com/in/wmano/)
+![profile views](https://komarev.com/ghpvc/?username=Mano-08&color=brightgreen&label=Profile+Views)
+[![Linkedin: Mano](https://img.shields.io/badge/-Mano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wmano/)](https://www.linkedin.com/in/wmano/)
 </div>
 
 # About ME💬:
