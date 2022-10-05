@@ -1,4 +1,3 @@
-<!--![mano](https://user-images.githubusercontent.com/95289188/183302180-1e724761-6b83-402f-b877-a79b2ca90863.png)-->
 ![mano](https://user-images.githubusercontent.com/95289188/183422369-29bed8ea-b650-4514-91fa-8507fb8ee013.png)
 
 <div align="center">
@@ -12,14 +11,13 @@
 ### - I'm an 18 year old Web developer and a ML Enthusiast based in India
 <img align="right" height="200" src="https://user-images.githubusercontent.com/95289188/183362165-659e2a99-6e28-4062-b942-ac52b2b8065e.gif">
 
-- Currently learning NodeJS and ExpressJS
-- Practising Data Structures and Algorithms on <a href="https://leetcode.com/Mano-08">Leetcode</a>
-- Check out my Figma designs <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/MY-DESIGNS?node-id=0%3A1">here</a>! :)
+- Currently learning/building with NodeJS & ExpressJS and also practising Data Structures and Algorithms on <a href="https://leetcode.com/Mano-08">Leetcode</a>
+- I love designing and hacking around things with <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/MY-DESIGNS?node-id=0%3A1">Figma</a> :)
 - Fun fact: I often slip into nostalgia ✨
 - I'm looking forward to collaboration for
-  - 👩‍💻learning DSA!
-  - 👯‍♀️teaming up for hackathons!
-  - 🤝working on any project!
+  - 👩‍💻learning DSA & maybe mock interview stuffs!
+  - 👯‍♀️teaming up for online hackathons !
+  - 🤝working on any project based on Web development (or) ML/AI (or) anything interesting!
 
 <br>
 
