@@ -11,9 +11,10 @@
 ### - I'm an 18 year old Web developer and a ML Enthusiast based in India
 <img align="right" height="200" src="https://user-images.githubusercontent.com/95289188/183362165-659e2a99-6e28-4062-b942-ac52b2b8065e.gif">
 
-- Currently learning/building with NodeJS & ExpressJS and also practising Data Structures and Algorithms on <a href="https://leetcode.com/Mano-08">Leetcode</a>. I love designing and hacking around things with <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/MY-DESIGNS?node-id=0%3A1">Figma</a> :)
+- Currently learning/building with NodeJS & ExpressJS and also practising Data Structures and Algorithms on <a href="https://leetcode.com/Mano-08">Leetcode</a>. 
+- I love designing and hacking around things with <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/MY-DESIGNS?node-id=0%3A1">Figma</a> :)
 - Fun fact: I often slip into nostalgia ✨
-- I'm looking forward to collaboration for 👩‍💻learning DSA & maybe mock interview stuffs! 👯‍♀️teaming up for online hackathons ! 🤝working on any project based on Web development (or) ML/AI (or) anything interesting!
+- I'm looking forward to collaboration for 👩‍💻learning DSA & maybe mock interview stuffs! 👯‍♀️teaming up for online hackathons ! 🤝working on any amazing project!
 
 <br>
 
