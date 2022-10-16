@@ -46,7 +46,6 @@ I am pursuing Computer Science based India and I love building cool stuff on web
     <a href="https://discord.gg/Mano(he/him)#3113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="32" width="40" /></a>
 </p>
 
-##
 
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Mano-08&color=brightgreen&label=Profile+Views" />
 
