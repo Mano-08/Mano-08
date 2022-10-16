@@ -19,7 +19,7 @@ I am pursuing Computer Science based India and I love building cool stuff on web
 - fun fact: I often slip into nostalgia.
 - 📫 Reach me by: [mano.26q@gmail.com](mailto:mano.26q@gmail.com)
 
-## Languages and Tools:
+## Languages and Tools
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
@@ -35,7 +35,7 @@ I am pursuing Computer Science based India and I love building cool stuff on web
 </p>
 
 
-## Connect with me:
+## Lets Connect!
 
 <p align="left">
     <a href="https://twitter.com/mano__08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mano__08" height="30" width="40" /></a>
