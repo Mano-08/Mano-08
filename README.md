@@ -19,8 +19,6 @@ I am pursuing Computer Science based India and I love building cool stuff on web
 - fun fact: I often slip into nostalgia.
 - 📫 Reach me by: [mano.26q@gmail.com](mailto:mano.26q@gmail.com)
 
-<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Mano-08&color=brightgreen&label=Profile+Views" />
-
 ## Languages and Tools:
 
 <p align="left"> 
@@ -48,7 +46,7 @@ I am pursuing Computer Science based India and I love building cool stuff on web
     <a href="https://discord.gg/Mano(he/him)#3113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="32" width="40" /></a>
 </p>
 
-
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Mano-08&color=brightgreen&label=Profile+Views" />
 
 <div align="center">
   <img alt="Mano's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mano-08&theme=chartreuse-dark&show_icons=true)](https://github.com/Mano-08/github-readme-stats" />
