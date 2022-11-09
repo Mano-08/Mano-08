@@ -15,7 +15,7 @@ My name is Mano, I am Computer Science student based India and I love building c
 - I'm currently exploring and building with NodeJS & ExpressJS.
 - I'm learning and practising Data Structures and Algorithms.
 - I love designing and hacking things around with <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/My-UI-Designs">Figma</a>!
-- fun fact: I often slip into nostalgia.
+- fun fact: I often slip into nostalgia
 - 📫 Reach me by: [mano.26q@gmail.com](mailto:mano.26q@gmail.com)
 
 ## Languages and Tools
