@@ -12,7 +12,7 @@ My name is Mano, I am Computer Science student based India and I love building c
 
 <img align="right" width="350" src="https://cdn.dribbble.com/users/3859528/screenshots/9164402/media/730597676ca0663238bb350aed97f848.gif">
 
-- I'm currently exploring & building with Next.js and ReactJS
+- I'm currently exploring and building with Next.js
 - I'm learning and practising Data Structures and Algorithms.
 - I love designing and hacking things around with <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/My-UI-Designs">Figma</a>!
 - fun fact: I often slip into nostalgia
