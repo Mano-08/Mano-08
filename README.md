@@ -8,7 +8,7 @@
 ## Hello there👋
 
 
-My name is Mano, I am Computer Science student based India and I love building cool stuff on web. Here's a little about me:
+My name is Mano, I am a Computer Science student based India and I love building cool things on web. Here's a little about me:
 
 <img align="right" width="350" src="https://cdn.dribbble.com/users/3859528/screenshots/9164402/media/730597676ca0663238bb350aed97f848.gif">
 
