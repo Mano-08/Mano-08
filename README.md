@@ -81,5 +81,5 @@ My name is Mano, I am a Computer Science student from India and I love building 
 
 <div align="center">
   <a href="https://holopin.io/mano26"><img src="https://holopin.me/@mano26" /></a>
-  <img alt="Mano's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mano-08&theme=chartreuse-dark&show_icons=true)](https://github.com/Mano-08/github-readme-stats" />
+<!--   <img alt="Mano's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mano-08&theme=chartreuse-dark&show_icons=true)](https://github.com/Mano-08/github-readme-stats" /> -->
 </div>
