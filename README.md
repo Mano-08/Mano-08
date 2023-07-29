@@ -1,85 +1,35 @@
-<!--![mano](https://user-images.githubusercontent.com/95289188/183422369-29bed8ea-b650-4514-91fa-8507fb8ee013.png) 
-
-<div align="center">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Mano-08&color=orange&label=Profile+Views" />
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-Mano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wmano/)](https://www.linkedin.com/in/wmano/" />
-</div>-->
-
 ## Hello there👋
 
+My name is Mano and I am a Computer Science student from India. Here's a little about me:
 
-My name is Mano, I am a Computer Science student from India and I love building cool things on web. Here's a little about me:
+<h3>⚡ Work Experience:</h3> 
 
-<img align="right" width="350" src="https://cdn.dribbble.com/users/3859528/screenshots/9164402/media/730597676ca0663238bb350aed97f848.gif">
+- <strong>Software Developer at TaskLabs: </strong> [March 2023 to July 2023]
+  - Full stack development on the Web Engineering Team.
+  - Accelerated the file format conversion rate by 70%, by integrating WASM tools that run on the browser to convert
+files, cutting down the cloud charges to $0.
+ 
+- <strong>Full Stack Web Developer at Google Developer Students Club NIT Andhra: </strong>[March 2023 to July 2023]
+  - Core team member of the Web Team.
+  - Built the official website of the club within a tight timeframe of 4 days by leading a group of 4 developers and
+collaborating with the cross-functional teams.
 
-- I'm currently exploring and building with NextJS
-- I'm learning and practising Data Structures and Algorithms.
-- I love designing and hacking things around with <a href="https://www.figma.com/file/qoeuXAfMn3gjpf5b11oMod/My-UI-Designs">Figma</a>!
-- fun fact: I often slip into nostalgia
-- 📫 Reach me by: [mano.26q@gmail.com](mailto:mano.26q@gmail.com)
+<h3>❄️ Interests: </h3>
 
-## Languages and Tools
+- Web Development
+  - Backend: NodeJS, TypeScript
+  - Frontend: Next.js, TailwindCSS, ReactJS, SCSS
+  - Database: PostgreSQL, MongoDB
+- Anime
 
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-    </a>
-    <a href="https://reactjs.org/" target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> 
-    </a>
-     <a href="https://sass-lang.com/" target="_blank"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C language" width="40" height="40"/> 
-    </a>
-    <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a>
-    <a href="https://www.mysql.com/" target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-    </a>
-    <a href="https://nodejs.org/en/" target="_blank"> 
-        <img src="https://user-images.githubusercontent.com/95289188/196027039-62b6387f-9204-46c8-82f3-69aaebee4127.svg" alt="nodejs" width="40" height="40"/> 
-    </a>
-    <a href="https://jquery.com/" target="_blank"> 
-        <img src="https://user-images.githubusercontent.com/95289188/196027583-ae568c24-4277-4f54-a1e8-d675a6d7f6d0.svg" alt="jquery" height="40" width="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a>
-</p>
+<h3>📧 Lets Connect</h3>
 
+<a href="https://www.linkedin.com/in/wmano/" rel=noreferrer target="_blank">LinkedIn</a>
+<a href="https://twitter.com/mano__08" rel=noreferrer target="_blank">Twitter</a>
+<a href="mailto:mano.26q@gmail.com" rel=noreferrer target="_blank">Email</a>
 
-## Lets Connect!
-
-<p align="left">
-    <a href="https://twitter.com/mano__08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mano__08" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/wmano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wmano" height="30" width="40" /></a>
-    <a href="mailto:mano.26q@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/95289188/183304380-42ea1bad-4cd0-479f-87a2-35e1321d3927.svg" height="35" width="40" /></a>
-    <a href="https://instagram.com/_mano.08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mano.08" height="30" width="40" /></a>
-    <a href="https://leetcode.com/Mano-08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Mano-08" height="30" width="40" /></a>
-    <a href="https://discord.gg/Mano(he/him)#3113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="32" width="40" /></a>
-</p>
 
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Mano-08&color=brightgreen&label=Profile+Views" />
-
 <div align="center">
   <a href="https://holopin.io/mano26"><img src="https://holopin.me/@mano26" /></a>
-<!--   <img alt="Mano's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mano-08&theme=chartreuse-dark&show_icons=true)](https://github.com/Mano-08/github-readme-stats" /> -->
 </div>
