@@ -2,7 +2,7 @@
 
 My name is Mano and I am a Computer Science student from India. Here's a little about me:
 
-## ⚡ Work Experience:
+### ⚡ Work Experience:
 
 - <strong>Software Developer at TaskLabs: </strong> [March 2023 to July 2023]
   - Full stack development on the Web Engineering Team.
@@ -14,7 +14,7 @@ files, cutting down the cloud charges to $0.
   - Built the official website of the club within a tight timeframe of 4 days by leading a group of 4 developers and
 collaborating with the cross-functional teams.
 
-## ❄️ Interests: 
+### ❄️ Interests: 
 
 - Web Development
   - Backend: NodeJS, TypeScript
@@ -22,7 +22,7 @@ collaborating with the cross-functional teams.
   - Database: PostgreSQL, MongoDB
 - Anime
 
-## 📧 Lets Connect!
+### 📧 Let's Connect!
 
 <a href="https://www.linkedin.com/in/wmano/" rel=noreferrer target="_blank">&nbsp;LinkedIn&nbsp;</a>
 <a href="https://twitter.com/mano__08" rel=noreferrer target="_blank">&nbsp;Twitter&nbsp;</a>
