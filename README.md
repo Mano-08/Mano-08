@@ -26,7 +26,7 @@ collaborating with the cross-functional teams.
 
 <a href="https://www.linkedin.com/in/wmano/" rel=noreferrer target="_blank">&nbsp;LinkedIn&nbsp;</a>
 <a href="https://twitter.com/mano__08" rel=noreferrer target="_blank">&nbsp;Twitter&nbsp;</a>
-<a href="mailto:mano.26q@gmail.com" rel=noreferrer target="_blank">&nbsp;Email&nbsp;</a>
+<a href="mailto:mano.26q@gmail.com" rel=noreferrer target="_blank">&nbsp;mano.26q@gmail.com&nbsp;</a>
 
 
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Mano-08&color=brightgreen&label=Profile+Views" />
