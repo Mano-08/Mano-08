@@ -7,7 +7,7 @@ My name is Mano and I am a Computer Science student from India. Here's a little 
 ### ⚡ Work Experience:
 
 - <strong>Software Developer at TaskLabs: </strong> [March 2023 to July 2023]
-  - Full stack development on the Web Engineering Team.
+  - Full stack development in the Web Engineering Team.
   - Accelerated the file format conversion rate by 70%, by integrating WASM tools, which cut down the cloud charges to $0.
  
 - <strong>Full Stack Web Developer at Google Developer Students Club NIT Andhra: </strong>[October 2022 to March 2023]
