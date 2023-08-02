@@ -8,8 +8,7 @@ My name is Mano and I am a Computer Science student from India. Here's a little 
 
 - <strong>Software Developer at TaskLabs: </strong> [March 2023 to July 2023]
   - Full stack development on the Web Engineering Team.
-  - Accelerated the file format conversion rate by 70%, by integrating WASM tools to convert
-files, cutting down the cloud charges to $0.
+  - Accelerated the file format conversion rate by 70%, by integrating WASM tools, which cut down the cloud charges to $0.
  
 - <strong>Full Stack Web Developer at Google Developer Students Club NIT Andhra: </strong>[October 2022 to March 2023]
   - Core team member of the Web Team.
