@@ -11,7 +11,7 @@ My name is Mano and I am a Computer Science student from India. Here's a little 
   - Accelerated the file format conversion rate by 70%, by integrating WASM tools, which cut down the cloud charges to $0.
  
 - <strong>Full Stack Web Developer at Google Developer Students Club NIT Andhra: </strong>[October 2022 to March 2023]
-  - Core team member of the Web Team.
+  - Core team member in the Web Team.
   - Built the official website of the club within a tight timeframe of 4 days by leading a group of 4 developers and
 collaborating with the cross-functional teams.
 
