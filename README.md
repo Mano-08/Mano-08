@@ -8,7 +8,7 @@ My name is Mano and I am a Computer Science student from India. Here's a little 
 
 - <strong>Software Developer at TaskLabs: </strong> [March 2023 to July 2023]
   - Full stack development in the Web Engineering Team.
-  - Accelerated the file format conversion rate by 70%, by integrating WASM tools, which cut down the cloud charges to $0.
+  - Built blog summarizer tools, by reverse engineering ChatGPT API calls to send and receive AI responses, saving up to 5 hours per week for users.
  
 - <strong>Full Stack Web Developer at Google Developer Students Club NIT Andhra: </strong>[October 2022 to March 2023]
   - Core team member in the Web Team.
