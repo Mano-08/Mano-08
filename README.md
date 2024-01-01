@@ -12,7 +12,7 @@ My name is Mano and I am a Computer Science student from India. Here's a little 
  
 - <strong>Full Stack Web Developer at Google Developer Students Club NIT Andhra: </strong>[October 2022 - March 2023]
   - Core team member in the Web Team.
-  - Built the official website of the club within a tight timeframe of 4 days by leading a group of 4 developers and
+  - Built the <a href="https://gdsc-nitandhra.vercel.app/" target="_blank">official website</a> of the club within a tight timeframe of 4 days by leading a group of 4 developers and
 collaborating with the cross-functional teams.
 
 ---
