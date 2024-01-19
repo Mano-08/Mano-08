@@ -6,11 +6,11 @@ My name is Mano and I am a Computer Science student from India. Here's a little 
 
 ### ⚡ Work Experience:
 
-- <strong>Software Developer at TaskLabs: </strong> [March 2023 - Present]
+- <strong>Software Developer at TaskLabs: </strong> [May 2023 - July 2023]
   - Full stack development in the Web Engineering Team.
   - Built blog summarizer tools, by reverse engineering ChatGPT API calls to send and receive AI responses, saving up to 5 hours per week for users.
  
-- <strong>Full Stack Web Developer at Google Developer Students Club NIT Andhra: </strong>[October 2022 - March 2023]
+- <strong>Technical Team Member at Google Developer Students Club NIT Andhra: </strong>[October 2022 - March 2023]
   - Core team member in the Web Team.
   - Built the <a href="https://gdsc-nitandhra.vercel.app/" target="_blank">official website</a> of the club within a tight timeframe of 4 days by leading a group of 4 developers and
 collaborating with the cross-functional teams.
