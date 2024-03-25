@@ -6,15 +6,17 @@ My name is Mano and I am a Computer Science student from India. Here's a little 
 
 ### ⚡ Work Experience:
 
-- <strong>Software Developer at TaskLabs: </strong> [May 2023 - July 2023]
-  - Full stack development in the Web Engineering Team.
-  - Built blog summarizer tools, by reverse engineering ChatGPT API calls to send and receive AI responses, saving up to 5 hours per week for users.
- 
-- <strong>Technical Team Member at Google Developer Students Club NIT Andhra: </strong>[October 2022 - March 2023]
-  - Core team member in the Web Team.
-  - Built the <a href="https://gdsc-nitandhra.vercel.app/" target="_blank">official website</a> of the club within a tight timeframe of 4 days by leading a group of 4 developers and
-collaborating with the cross-functional teams.
+- <strong>Software Development Engineer Intern at TaskLabs: </strong> [May 2023 - July 2023]
+  - Designed and implemented blog summarizers, helping users save up to <strong>5 hours per week</strong>.
+  - Developed the <a href="https://quicktask.app/" target="_blank">tutorial interface</a> using Next.js, offering <strong>98% performance</strong> scale on Lighthouse.
+  - Built user authentication and data-fetching practices with AWS Cognito and S3 buckets.
+  - Tools used: Amazon Web Services (AWS), Python, TypeScript, Next.js, ReactJS, Tailwind CSS
 
+- <strong>Technical Team Member at Google Developer Students Club NIT Andhra: </strong>[October 2022 - March 2023]
+  - Led a team of 4 developers to build the <a href="https://gdsc-nitandhra.vercel.app/" target="_blank">official website</a> of the club within a tight time frame of 4 days, by effectively collaborating with the cross-functional teams.
+  - Conducted workshops on the basics of web development for a crowd of over 150 people, explaining the concepts of JavaScript and ReactJS.
+  - Tools used: JavaScript, Next.js, ReactJS
+    
 ---
 
 ### ❄️ Interests: 
