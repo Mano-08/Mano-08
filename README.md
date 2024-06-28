@@ -4,9 +4,9 @@ My name is Mano and I am a Computer Science student from India. Here's a little 
 
 ---
 
-### Work:
+### 👨‍💻 Work:
 
-- <strong>Software Development Engineer Intern at TaskLabs: </strong> [May 2023 - July 2023]
+- <strong>SDE Intern at TaskLabs: </strong> [March 2023 - August 2023]
   - Designed and developed a <a href="https://quicktask.app/" target="_blank">tutorial interface</a> using Next.js offering a <strong>98% performance</strong> scale on Lighthouse.
   - Built a blog summariser feature, helping users save up to <strong>5 weekly hours</strong>.
   - Tools used: Amazon Web Services (AWS), Python, TypeScript, Next.js, ReactJS, Tailwind CSS
