@@ -1,26 +1,20 @@
-## Hello there👋
-
-My name is Mano and I am a Computer Science student from India. Here's a little about me:
-
----
-
 ### 👨‍💻 Work:
 
 - <strong>SDE Intern at TaskLabs: </strong> [March 2023 - August 2023]
-  - Designed and developed a <a href="https://quicktask.app/" target="_blank">tutorial interface</a> using Next.js offering a <strong>98% performance</strong> scale on Lighthouse.
-  - Built a blog summariser feature, helping users save up to <strong>5 weekly hours</strong>.
-  - Tools used: Amazon Web Services (AWS), Python, TypeScript, Next.js, ReactJS, Tailwind CSS
+  - Chrome extension dev for web automation integrated with LLMs and GPT.
+  - Built the <a href="https://quicktask.app/" target="_blank">tutorial interface</a> of AI summariser using Next.js, offering a <strong>98% performance</strong> scale on Lighthouse.
+  - Developed <strong>5+ chrome extension components</strong>, that integrate with AI models to summarise web content.
+  - Tools used: AWS Cognito, AWS S3, Python, TypeScript, Next.js, ReactJS, Tailwind CSS
 
 - <strong>Technical Team Member at Google Developer Students Club NIT Andhra: </strong>[October 2022 - March 2023]
-  - Led a team of 4 developers to build the <a href="https://gdsc-nitandhra.vercel.app/" target="_blank">official website</a> of the club within a tight time frame of 4 days.
-  - Conducted workshops on the basics of web development for a crowd of over 150 people, explaining the concepts of JavaScript and ReactJS.
-    
+  - Led a team of 4 to build the <a href="https://gdsc-nitandhra.vercel.app/" target="_blank">official website</a> of the club using Next.js and SCSS, within a tight time frame of 4 days
+  - Delivered workshops to over 150 students on the basics of web development, explaining key JavaScript concepts.    
 ---
 
 ### ❄️ Interests: 
 
 - Web Development
-  - Backend: NodeJS, TypeScript
+  - Backend: GoLang, NodeJS, TypeScript
   - Frontend: Next.js, TailwindCSS, ReactJS, SCSS
   - Database: PostgreSQL, MongoDB
 - Anime
