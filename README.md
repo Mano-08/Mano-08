@@ -3,7 +3,7 @@
   "Name": "Mano",
   "School": "NIT Andhra Pradesh",
   "Major": "Computer Science and Engineering",
-  "Interests": ["Backend Development", "Game Development", "Fullstack Development", "Android Development"],
+  "Interests": ["Blockchain Development", "Game Development", "Fullstack Development"],
   "Professional Experiences": [
     {
       "Organization": "TaskLabs | SaaS | Bengaluru, KA",
@@ -11,14 +11,7 @@
       "Areas of Focus": "Backend Development, Web Automation with LLMs, Chrome Extension",
     },
   ],
-  "Position of Responsibility": [
-    {
-      "Organization": "Google Developer Students Club, NIT Andhra",
-      "Role": "Web Team Subhead",
-      "Work": "Led a team of 4 to build the official website of club, within 4 days."
-    },
-  ],
-  "Currently Learning": ["GoLang", "Android Development"],
+  "Currently Learning": ["Rust", "Solana"],
   "Let's Connect": "mano.26q@gmail.com",
 }
 ```
