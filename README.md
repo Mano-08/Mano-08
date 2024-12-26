@@ -3,12 +3,11 @@
   "Name": "Mano",
   "School": "NIT Andhra Pradesh",
   "Major": "Computer Science and Engineering",
-  "Interests": ["Blockchain Development", "Game Development", "Fullstack Development"],
   "Professional Experiences": [
     {
       "Organization": "TaskLabs | SaaS | Bengaluru, KA",
       "Role": "Software Development Engineer Intern",
-      "Areas of Focus": "Backend Development, Web Automation with LLMs, Chrome Extension",
+      "Areas of Focus": "Fullstack Development, Web Automation with LLMs, Chrome Extension",
     },
   ],
   "Currently Learning": ["Rust", "Solana"],
