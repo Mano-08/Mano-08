@@ -5,12 +5,17 @@
   "Major": "Computer Science and Engineering",
   "Professional Experiences": [
     {
+      "Organization": "Broadridge | FinTech | Bengaluru, KA",
+      "Role": "Member Technical Intern",
+      "Areas of Focus": "Site Reliability Engineering, DevOps, Kubernetes",
+    },
+    {
       "Organization": "TaskLabs | SaaS | Bengaluru, KA",
       "Role": "Software Development Engineer Intern",
-      "Areas of Focus": "Fullstack Development, Web Automation with LLMs, Chrome Extension",
+      "Areas of Focus": "Fullstack Development, AWS, Chrome Extension",
     },
   ],
-  "Currently Learning": ["Rust", "Solana"],
+  "Currently Learning": ["Solidity", "Solana"],
   "Let's Connect": "mano.26q@gmail.com",
 }
 ```
