@@ -15,7 +15,7 @@
       "Areas of Focus": "Fullstack Development, AWS, Chrome Extension",
     },
   ],
-  "Currently Learning": ["Solidity", "Solana"],
+  "Currently Learning": ["Solidity", "Rust"],
   "Let's Connect": "mano.26q@gmail.com",
 }
 ```
