@@ -5,12 +5,12 @@
   "Major": "Computer Science and Engineering",
   "Professional Experiences": [
     {
-      "Organization": "Broadridge | B2B FinTech | Bengaluru, KA",
+      "Organization": "Broadridge | Bengaluru, KA",
       "Role": "Member Technical Intern",
       "Areas of Focus": "Site Reliability Engineering, DevOps, Kubernetes",
     },
     {
-      "Organization": "TaskLabs | B2C SaaS | Bengaluru, KA",
+      "Organization": "TaskLabs | Bengaluru, KA",
       "Role": "Software Development Engineer Intern",
       "Areas of Focus": "Fullstack Development, AWS, Chrome Extension",
     },
