@@ -7,15 +7,15 @@
     {
       "Organization": "Broadridge | Bengaluru, KA",
       "Role": "Member Technical Intern",
-      "Areas of Focus": "Site Reliability Engineering, DevOps, Kubernetes",
+      "Areas of Focus": "Site Reliability Engineering, Go, Kubernetes",
     },
     {
       "Organization": "TaskLabs | Bengaluru, KA",
       "Role": "Software Development Engineer Intern",
-      "Areas of Focus": "Fullstack Development, AWS, Chrome Extension",
+      "Areas of Focus": "Fullstack Development, React, AWS",
     },
   ],
-  "Currently Learning": ["Solidity", "Rust"],
+  "Currently Learning": ["Rust"],
   "Let's Connect": "mano.26q@gmail.com",
 }
 ```
