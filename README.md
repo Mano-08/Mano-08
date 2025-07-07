@@ -12,7 +12,7 @@
     {
       "Organization": "TaskLabs | Bengaluru, KA",
       "Role": "Software Development Engineer Intern",
-      "Areas of Focus": "Fullstack Development, React, AWS",
+      "Areas of Focus": "Fullstack Engineering, React, AWS",
     },
   ],
   "Currently Learning": ["Rust"],
