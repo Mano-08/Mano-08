@@ -7,7 +7,7 @@
     {
       "Organization": "Broadridge | Bengaluru, KA",
       "Role": "Member Technical Intern",
-      "Areas of Focus": "Site Reliability Engineering, Go, Kubernetes",
+      "Areas of Focus": "Software Engineering, Go, React, Kubernetes",
     },
     {
       "Organization": "TaskLabs | Bengaluru, KA",
