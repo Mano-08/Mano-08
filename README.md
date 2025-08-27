@@ -5,12 +5,12 @@
   "Major": "Computer Science and Engineering",
   "Professional Experiences": [
     {
-      "Organization": "Broadridge | Bengaluru, KA",
+      "Org": "Broadridge | Bengaluru, KA",
       "Role": "Member Technical Intern",
-      "Areas of Focus": "Software Engineering, Go, React, Kubernetes",
+      "Areas of Focus": "Backend Engineering, Go, Kubernetes",
     },
     {
-      "Organization": "TaskLabs | Bengaluru, KA",
+      "Org": "TaskLabs | Bengaluru, KA",
       "Role": "Software Development Engineer Intern",
       "Areas of Focus": "Fullstack Engineering, React, AWS",
     },
