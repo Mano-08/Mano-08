@@ -23,4 +23,4 @@
 
 I love to build stuff. Checkout my work at <a href="https://mano-codes.vercel.app">mano-codes</a>
 -->
-<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Mano-08" />
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Mano-08&color=brightgreen&label=Profile+Views" />
